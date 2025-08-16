@@ -41,5 +41,7 @@ To build a **comprehensive restaurant analysis dashboard** that highlights:
 4. **Restaurant Openings by Year:** Line chart tracking expansion over time  
 5. **Cuisine & Cost Buckets:** Distribution of cuisines across price ranges  
 6. **Ratings Analysis:** Count of restaurants grouped by average ratings  
-7. **Service Availability:** Donut charts for table boo
+7. **Service Availability:** Donut charts for table booking
+   
+![Zomato Dashboard](images/Zomato_Analysis.png)
 
