@@ -43,5 +43,5 @@ To build a **comprehensive restaurant analysis dashboard** that highlights:
 6. **Ratings Analysis:** Count of restaurants grouped by average ratings  
 7. **Service Availability:** Donut charts for table booking
    
-![Zomato Dashboard](images/Zomato_Analysis.png)
+![Zomato Dashboard](https://github.com/Pranotidesai663/Zomato-Analysis/blob/2e37e2a38c63891a8ff2905ea8e44dd27b403502/images/Zomato%20Analysis.png)
 
